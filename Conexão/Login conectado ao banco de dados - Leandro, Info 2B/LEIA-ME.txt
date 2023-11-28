@@ -1,0 +1,10 @@
+Olá, professor.
+
+Obs. 1: Por favor, abra no navegador o 'Script para criar banco de dados e tabela', pois eu fiz uma tabela, e não vai funcionar o login se não fizer isso. Esse script vai criar a tabela automaticamente no seu mysql;
+
+Obs. 2: Depois é só abrir o formulário, fazer um cadastro e realizar o login. Eu já cadastrei uma conta, se quiser testar:
+Usuário = Lacorte;
+Senha = Leandro123.
+Ou você pode criar uma própria conta (cuidando para colocar os dados no formato exigido);
+
+Obs. 3: Você pode abrir as imagens que eu enviei junto para ver como fica no gerenciador de banco de dados (SQL Manager), que gera uma imagem da tabela e colunas.
