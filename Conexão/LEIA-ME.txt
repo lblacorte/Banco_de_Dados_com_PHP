@@ -1,0 +1,3 @@
+Olá, professor.
+
+Aviso: Por favor, extraia essa pasta 'Login conectado ao banco de dados - Leandro, Info 2B' direto na pasta 'htdocs' do XAMPP. Se você colocar em outra pasta não irá funcionar. Depois é só abrir ela no servidor.
